@@ -1,15 +1,11 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>I'm Leo</h1>
-  <strong> a scientist :)</strong>
-  <br/><br/>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/leo-ramirez-lopez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leo--ramirez--lopez-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://twitter.com/rlleonardo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=flat-square&logo=twitter"></a>
-    <a href="https://github.com/l-ramirez-lopez" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-l--ramirez--lopez-black?style=flat-square&logo=github"></a>
-  </p>
-</div>
+#  I'm Leo  
+
+A Scientist ...  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-ramirez-lopez)  
+[![Twitter](https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rlleonardo)  
+[![GitHub](https://img.shields.io/badge/GitHub-l--ramirez--lopez-181717?style=for-the-badge&logo=github)](https://github.com/l-ramirez-lopez)  
+
 
 ---
 
