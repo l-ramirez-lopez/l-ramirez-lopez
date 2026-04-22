@@ -1,8 +1,8 @@
 #  I'm Leo  
 
 A Scientist ...  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-ramirez-lopez)  [![Twitter](https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rlleonardo)  [![GitHub](https://img.shields.io/badge/GitHub-l--ramirez--lopez-181717?style=for-the-badge&logo=github)](https://github.com/l-ramirez-lopez)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-ramirez-lopez)  [![Twitter](https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rlleonardo)  [![GitHub](https://img.shields.io/badge/GitHub-l--ramirez--lopez-181717?style=for-the-badge&logo=github)](https://github.com/l-ramirez-lopez)  [![Website](https://img.shields.io/badge/Website-l--ramirez--lopez.github.io-4A90D9?style=for-the-badge&logo=google-chrome)](https://l-ramirez-lopez.github.io/)
+---
 
 
 ---
