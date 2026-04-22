@@ -1,32 +1,29 @@
-#  I'm Leo  
+# I'm Leo
+Chemometrician · ML Researcher · Head of Data Science
 
-A Scientist ...  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-ramirez-lopez)  [![Website](https://img.shields.io/badge/Website-l--ramirez--lopez.github.io-4A90D9?style=for-the-badge&logo=google-chrome)](https://l-ramirez-lopez.github.io/) [![Twitter](https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rlleonardo)  [![GitHub](https://img.shields.io/badge/GitHub-l--ramirez--lopez-181717?style=for-the-badge&logo=github)](https://github.com/l-ramirez-lopez)  
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leo-ramirez-lopez) [![GitHub](https://img.shields.io/badge/GitHub-l--ramirez--lopez-181717?style=for-the-badge&logo=github)](https://github.com/l-ramirez-lopez) [![Website](https://img.shields.io/badge/Website-l--ramirez--lopez.github.io-4A90D9?style=for-the-badge&logo=google-chrome)](https://l-ramirez-lopez.github.io/) [![Twitter](https://img.shields.io/badge/Twitter-@rlleonardo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rlleonardo)
 
 ---
 
 ### A bit about me
-I'm the Head of Data Science at BÜCHI Labortechnik AG, where I built our Data Science team from the ground up. I'm passionate about using machine learning to solve real-world challenges, especially in spectroscopy and environmental applications.
 
-- 🚀 **Currently:** Working on digital innovation.
-- 🤖 **I build:** Intelligent systems for lab automation (like automatic distillation and smart sensor calibration).
-- 📦 **I share:** A open-source libraries for spectral data processing used by researchers globally.
+I'm the Head of Data Science at BÜCHI Labortechnik AG, where I built the Data Science team from the ground up. My work sits at the interface of spectroscopy, chemometrics, and applied machine learning.
+
+- 🔬 **Research:** Local and retrieval-based ML for spectral libraries — `resemble`, `liblex`, `gesearch`
+- 🤖 **Industry:** ML platforms, embedded AI systems, and smart sensor calibration for lab automation
+- 📦 **Open source:** Maintainer of [`resemble`](https://github.com/l-ramirez-lopez/resemble) and [`prospectr`](https://github.com/l-ramirez-lopez/prospectr), used by researchers globally
 
 ---
 
 ### Tech
-Here are some other technologies I enjoy using:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,cpp,julia,postgres,tableau" />
+  <img src="https://skillicons.dev/icons?i=r,python,cpp,julia,latex,cmake" />
 </div>
 
 <br/>
 
-**Core Skills:**
-`Machine Learning` `Predictive Modelling` `Statistical Methodologies` `Chemometrics` `Scaled Agile (SAFe® 5)`
+`Machine Learning` `Chemometrics` `Predictive Modelling` `Spectroscopy` `Statistical Methods`
 
 ---
 
