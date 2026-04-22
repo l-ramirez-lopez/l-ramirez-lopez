@@ -8,7 +8,7 @@ Chemometrician · ML Researcher · Head of Data Science
 
 I'm the Head of Data Science at BÜCHI Labortechnik AG, where I built the Data Science team from the ground up. My work sits at the interface of spectroscopy, chemometrics, and applied machine learning.
 
-- 🔬 **Research:** Local and retrieval-based ML for spectral libraries — `resemble`, `liblex`, `gesearch`
+- 🔬 **Research:** Local and retrieval-based ML for spectral libraries, `resemble`, `liblex`, `gesearch`
 - 🤖 **Industry:** ML platforms, embedded AI systems, and smart sensor calibration for lab automation
 - 📦 **Open source:** Maintainer of [`resemble`](https://github.com/l-ramirez-lopez/resemble) and [`prospectr`](https://github.com/l-ramirez-lopez/prospectr), used by researchers globally
 
