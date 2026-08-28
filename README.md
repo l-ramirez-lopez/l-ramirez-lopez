@@ -9,7 +9,7 @@ I'm the Head of Data Science at BÜCHI Labortechnik AG, where I built the Data S
 
 - 🔬 **Research:** Local and retrieval-based ML for spectral libraries
 - 🤖 **Industry:** ML platforms, embedded AI systems, and smart sensor calibration for lab automation
-- 📦 **Open source:** Maintainer of [`resemble`](https://github.com/l-ramirez-lopez/resemble) and [`prospectr`](https://github.com/l-ramirez-lopez/prospectr), used by researchers globally
+- 📦 **Open source:** Maintainer of [`resemble`](https://github.com/l-ramirez-lopez/resemble) and [`prospectr`](https://github.com/l-ramirez-lopez/prospectr), used by researchers globally and more recently also maintainer of [`proximetricsR`](https://github.com/buchi-labortechnik-ag/proximetricsR) 
 
 ---
 
